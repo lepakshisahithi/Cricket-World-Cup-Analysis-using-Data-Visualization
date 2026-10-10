@@ -1,4 +1,4 @@
-# Historical Performance Analysis of the Indian Cricket Team in ICC World Cups Using Python
+# Historical Performance Analysis of the Cricket Teams in ICC World Cups Using Python
 ## 👥 Project Team
 
 This is a group project developed as part of our Data Visualization coursework.
@@ -21,15 +21,15 @@ Computer Science and Engineering (Artificial Intelligence)
 This Data Visualization project explores World Cup match records and India's performance using Python, Pandas, and Matplotlib.
 
 ## Visualizations
-1. Number of matches by year
-2. India's match outcomes (wins, losses, and other/no-result records)
-3. India's wins by year
-4. Top 10 teams by average runs per match
-5. India's average runs per match by year
-6. Pie chart of India's match outcomes
-7. Scatter plot comparing Team 1 and Team 2 scores
-8. Histogram of team-score distribution
-9. Box plot comparing team-score distributions
+1. World Cup Match Trends by Year
+2. Team participation in World Cups
+3. Most Frequently Participating Teams
+4. Team-wise Average Runs Comparison
+5. Average Team Scores Across Years
+6. Match outcome Distribution for India
+7. Relationship Between Team 1 and Team 2 Scores
+8. Distribution of World Cup Team Scores
+9. Comparison of Team Score Distributions
 
 The program also saves summary tables as CSV files.
 
@@ -59,3 +59,6 @@ The charts and summary CSV files are saved in the `output_graphs` folder.
 
 ## Important data note
 The dataset contains multiple World Cup years and may include different tournament formats. Check the tournament metadata and source documentation before making claims that all years represent the same format. This is an exploratory analysis and should be interpreted in light of the dataset's coverage and quality.
+##DASHBOARD LINK:
+https://cricket-world-cup-analysis-using-data-visualization-ug8u5tris8.streamlit.app/
+
