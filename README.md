@@ -1,4 +1,21 @@
 # Historical Performance Analysis of the Indian Cricket Team in ICC World Cups Using Python
+## 👥 Project Team
+
+This is a group project developed as part of our Data Visualization coursework.
+
+| S.No. | Team Member Name | Roll Number |
+| 1 | L.Sahithi | 24FH1A3110 |
+| 2 | B.Deepika | 24FH1A3103 |
+| 3 | P.Rajitha | 24FH1A3112  |
+
+
+##  Project Guide
+
+Guide Name: Dr.B.Mahesh
+
+## Department
+
+Computer Science and Engineering (Artificial Intelligence)
 
 ## Project overview
 This Data Visualization project explores World Cup match records and India's performance using Python, Pandas, and Matplotlib.
